@@ -1,0 +1,14 @@
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfoInputs.cache
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.AssemblyInfo.cs
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.csproj.CoreCompileInputs.cache
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\bin\Debug\net8.0\fighting.exe
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\bin\Debug\net8.0\fighting.deps.json
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\bin\Debug\net8.0\fighting.runtimeconfig.json
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\bin\Debug\net8.0\fighting.dll
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\bin\Debug\net8.0\fighting.pdb
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.dll
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\refint\fighting.dll
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.pdb
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\fighting.genruntimeconfig.cache
+c:\Users\mostafa.nouri\Documents\Programering1\fighting\fighting\obj\Debug\net8.0\ref\fighting.dll
