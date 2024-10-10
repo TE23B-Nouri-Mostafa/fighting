@@ -27,12 +27,9 @@ static string Wrongname()
 
 Console.Clear();
 
+string playagain = "Yes";
 
-
-
-string playagain = "yes";
-
-while (playagain == "yes")
+while (playagain == "Yes")
 {
 
 
@@ -209,8 +206,13 @@ while (playagain == "yes")
         }
     }
     Console.Clear();
-    Console.WriteLine("Type yes to play again else press enter");
+    Console.WriteLine("Type yes to play again else press enter or write anything else and press enter.");
     playagain = Console.ReadLine();
+
+    string playagainFirstLetter = playagain.Substring(0, 1).ToUpper();
+    string playagainTheRestOfTheLetters = playagain.Substring(1).ToLower();
+    playagain = playagainFirstLetter + playagainTheRestOfTheLetters;
+
     Console.Clear();
 }
 
